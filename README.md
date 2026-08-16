@@ -112,11 +112,11 @@ a pull request or open an issue if you notice any bugs or have suggestions for n
 
 ## Star History
 
-<a href="https://star-history.com/#vishal2376/snaptick&Timeline">
+<a href="https://star-history.dera.page/#vishal2376/snaptick&type=Timeline">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=vishal2376/snaptick&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=vishal2376/snaptick&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=vishal2376/snaptick&type=Timeline" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=vishal2376/snaptick&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=vishal2376/snaptick&type=Timeline" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=vishal2376/snaptick&type=Timeline" />
  </picture>
 </a>
 
